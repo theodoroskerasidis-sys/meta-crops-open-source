@@ -1,4 +1,4 @@
-# meta-crops-open-source# Meta-Crops Open Source
+# Meta-Crops Open Source
 
 Meta-Crops is a digital remote farming system designed to connect global users who need new income opportunities with rural farmers in Rwanda who lack stable employment. Our model provides a fully managed agricultural solution, where the Meta-Crops team handles every step from planting to harvesting and selling the final product.
 
